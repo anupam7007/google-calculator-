@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-calculator/static/css/main.118fe990.chunk.css",
+    "main.js": "/google-calculator/static/js/main.4a1425b8.chunk.js",
+    "main.js.map": "/google-calculator/static/js/main.4a1425b8.chunk.js.map",
+    "runtime-main.js": "/google-calculator/static/js/runtime-main.51b5673b.js",
+    "runtime-main.js.map": "/google-calculator/static/js/runtime-main.51b5673b.js.map",
+    "static/js/2.a4ab6eff.chunk.js": "/google-calculator/static/js/2.a4ab6eff.chunk.js",
+    "static/js/2.a4ab6eff.chunk.js.map": "/google-calculator/static/js/2.a4ab6eff.chunk.js.map",
+    "static/js/3.88f5c094.chunk.js": "/google-calculator/static/js/3.88f5c094.chunk.js",
+    "static/js/3.88f5c094.chunk.js.map": "/google-calculator/static/js/3.88f5c094.chunk.js.map",
+    "index.html": "/google-calculator/index.html",
+    "static/css/main.118fe990.chunk.css.map": "/google-calculator/static/css/main.118fe990.chunk.css.map",
+    "static/js/2.a4ab6eff.chunk.js.LICENSE.txt": "/google-calculator/static/js/2.a4ab6eff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/google-calculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51b5673b.js",
+    "static/js/2.a4ab6eff.chunk.js",
+    "static/css/main.118fe990.chunk.css",
+    "static/js/main.4a1425b8.chunk.js"
+  ]
+}
